@@ -1,0 +1,29 @@
+.tab {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        overflow: hidden;
+        border: 1px solid #d9f0fc;
+        background-color: #d9f0fc;
+        padding: 0 16px; /* Adjusted padding for the tab */
+    }
+
+    .tab button {
+        background-color: inherit;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 12px 16px;
+    }
+
+    .tab button:hover {
+        background-color: #b5e0fe;
+    }
+
+    .tab button.active {
+        background-color: #b5e0fe;
+    }
+
+    .tab span {
+        padding: 12px 0; /* Adjusted padding for the span */
+    }

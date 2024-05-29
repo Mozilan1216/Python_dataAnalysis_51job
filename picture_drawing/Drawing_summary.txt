@@ -1,0 +1,8 @@
+wordcloud -> 词云 -> √
+barplot -> 条形图 -> √
+histploy -> 直方图 -> √
+lineplot -> 折线图
+scatterplot -> 散点图
+pie -> 饼图
+DataFrame -> 数据框 -> ？
+map -> 地图 -> √

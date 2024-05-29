@@ -1,0 +1,7 @@
+1.参考实验报告说明Python-data-analysis-preliminary-project-data-visualization-music-list-analysis-system-TUST-2022-master
+2.参考案例：interesting-python-master
+3.数据库+数据清洗+地图数据可视化+机器学习分析：bosszhipin_spider-master
+4.Django+MongoDB+百度echarts+完整系统：myProjects-master
+5.报告参考+回归分析：Whut-Python-main
+6.内容参考+网页设计：LaGou-Distributed-Spider-Flask-master
+7.Requests库爬取+Mysql+Echarts：Python_Recruit_Crawler_Visualization-master

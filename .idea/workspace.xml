@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0f8319e-9465-405c-af20-f4a449d98086" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Python_dataAnalysis_51job.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/css/visualization.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/db_for_echarts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MongoDB/js/chart_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyecharts/City_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyecharts/Education_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyecharts/Grouped_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyecharts/Map_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyecharts/Wordcloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyecharts/grouped_number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Single_problem/crawl_51job_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/crawl_51job_datanlyze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/crawl_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/crawl_back_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/crawl_front_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/crawl_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/crawl_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/detail/crawl_algorithm_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/detail/crawl_back_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/detail/crawl_datanlyze_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/detail/crawl_front_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/detail/crawl_product_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crawl/detail/crawl_ui_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_process/collect_city_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_process/convert_to_province.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_process/convert_to_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/info/citys.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/Drawing_summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/city_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/cloudword_long.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/education_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/grouped_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/map_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/shapefile/China.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/shapefile/China.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/shapefile/China.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/shapefile/China.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/shapefile/China.shx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture_drawing/worldcloud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reference/Python_Recruit_Crawler_Visualization-master/tencentflask/.idea/tencentflask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reference/myProjects-master/.idea/myProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reference/总括.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gAwf3sIi2BVvSHrpPff3ykzXOO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.city_salary.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.detail_page.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.education_salary.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.education_salary_barh.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.grouped_number.html (1).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.grouped_number.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.grouped_number_pie.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.grouped_number_pyecharts.html (1).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.grouped_number_pyecharts.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.home.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html (1).executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.map_salary.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.navigation.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.visualization_dashboard.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.visualization_table.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.wordcloud.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.可视化大屏.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.124.executor&quot;: &quot;Run&quot;,
+    &quot;Python.City_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Education_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grouped_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Map_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Wordcloud.executor&quot;: &quot;Run&quot;,
+    &quot;Python.box_plot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.city_salary (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.city_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cloudword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cloudword_long.executor&quot;: &quot;Run&quot;,
+    &quot;Python.codetest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.collect_city_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.connect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_to_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_to_uniform.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_51job.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_51job_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_51job_datanlyze (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_51job_datanlyze.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_algorithm_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_back_end.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_datanlyze_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_front_end.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_ui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crawl_ui_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_for_echarts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.education_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grouped_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;Python.worldcloud (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.worldcloud.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/jetbrains/Python_dataAnalysis_2024/MongoDB/js&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\MongoDB\js" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\Pyecharts" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\picture_drawing\shapefile" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\MongoDB\html" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\Pyecharts" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\Pyecharts\html" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\crawl" />
+      <recent name="D:\jetbrains\Python_dataAnalysis_2024\data_process" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.visualization_table.html">
+    <configuration name="可视化大屏.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Python_dataAnalysis_51job/MongoDB/html/可视化大屏.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="education_salary.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Python_dataAnalysis_51job/Pyecharts/html/education_salary.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="grouped_number.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Python_dataAnalysis_51job/Pyecharts/html/grouped_number.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="visualization_dashboard.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Python_dataAnalysis_51job/MongoDB/html/visualization_dashboard.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="visualization_table.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Python_dataAnalysis_51job/MongoDB/html/visualization_table.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.visualization_table.html" />
+        <item itemvalue="JavaScript Debug.education_salary.html" />
+        <item itemvalue="JavaScript Debug.visualization_dashboard.html" />
+        <item itemvalue="JavaScript Debug.grouped_number.html" />
+        <item itemvalue="JavaScript Debug.可视化大屏.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e0f8319e-9465-405c-af20-f4a449d98086" name="更改" comment="" />
+      <created>1715153789616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715153789616</updated>
+      <workItem from="1715773963872" duration="742000" />
+      <workItem from="1715775913284" duration="5066000" />
+      <workItem from="1715818074827" duration="5044000" />
+      <workItem from="1715844715190" duration="12000" />
+      <workItem from="1715912036030" duration="12255000" />
+      <workItem from="1715929910932" duration="997000" />
+      <workItem from="1715949299804" duration="6217000" />
+      <workItem from="1715995705991" duration="1289000" />
+      <workItem from="1716013857613" duration="3424000" />
+      <workItem from="1716017317143" duration="1934000" />
+      <workItem from="1716029490190" duration="5093000" />
+      <workItem from="1716080633799" duration="2201000" />
+      <workItem from="1716087159450" duration="436000" />
+      <workItem from="1716096644557" duration="7132000" />
+      <workItem from="1716163335513" duration="5856000" />
+      <workItem from="1716173323251" duration="14000" />
+      <workItem from="1716768414532" duration="9701000" />
+      <workItem from="1716780242203" duration="2673000" />
+      <workItem from="1716789249026" duration="5411000" />
+      <workItem from="1716813817341" duration="208000" />
+      <workItem from="1716826279969" duration="3292000" />
+      <workItem from="1716859212363" duration="1787000" />
+      <workItem from="1716876022254" duration="559000" />
+      <workItem from="1716962364314" duration="15347000" />
+      <workItem from="1716996090992" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$convert_to_salary.coverage" NAME="convert_to_salary Coverage Results" MODIFIED="1716168496049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_algorithm.coverage" NAME="crawl_algorithm Coverage Results" MODIFIED="1716033785934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_51job.coverage" NAME="crawl_51job Coverage Results" MODIFIED="1715912243982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_datanlyze_details.coverage" NAME="crawl_datanlyze_details Coverage Results" MODIFIED="1716015683036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$codetest.coverage" NAME="codetest Coverage Results" MODIFIED="1716861185849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reference/Python_Recruit_Crawler_Visualization-master/tencentflask/tencent_spider" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$cloudword.coverage" NAME="cloudword Coverage Results" MODIFIED="1715916814377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_51job_2__1_.coverage" NAME="crawl_51job_2 (1) Coverage Results" MODIFIED="1715912917557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$connect.coverage" NAME="connect Coverage Results" MODIFIED="1716826311060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$city_salary.coverage" NAME="city_salary Coverage Results" MODIFIED="1716769432117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_51job_datanlyze.coverage" NAME="crawl_51job_datanlyze Coverage Results" MODIFIED="1715996726851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_back_end.coverage" NAME="crawl_back_end Coverage Results" MODIFIED="1716034136379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$Education_salary.coverage" NAME="Education_salary Coverage Results" MODIFIED="1716771565379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_details.coverage" NAME="crawl_details Coverage Results" MODIFIED="1715914873952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_front_end.coverage" NAME="crawl_front_end Coverage Results" MODIFIED="1716034007861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$grouped_number.coverage" NAME="grouped_number Coverage Results" MODIFIED="1716778178123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_ui.coverage" NAME="crawl_ui Coverage Results" MODIFIED="1716034377102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$run.coverage" NAME="run Coverage Results" MODIFIED="1716784366169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reference/Python_Recruit_Crawler_Visualization-master/tencentflask/tencent_data_analysis" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$convert_test.coverage" NAME="convert_test Coverage Results" MODIFIED="1715952157427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Single_problem" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1715818874805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$Table.coverage" NAME="Table Coverage Results" MODIFIED="1716986599872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$Map_salary.coverage" NAME="Map_salary Coverage Results" MODIFIED="1716769871732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_algorithm_details.coverage" NAME="crawl_algorithm_details Coverage Results" MODIFIED="1716084715967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/detail" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$worldcloud__1_.coverage" NAME="worldcloud (1) Coverage Results" MODIFIED="1715996178581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$views.coverage" NAME="views Coverage Results" MODIFIED="1716163526009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/reference/myProjects-master/myapp" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$page.coverage" NAME="page Coverage Results" MODIFIED="1716968286063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/front-end" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$Page.coverage" NAME="Page Coverage Results" MODIFIED="1716986397732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$cloudword_long.coverage" NAME="cloudword_long Coverage Results" MODIFIED="1715954332884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$box_plot.coverage" NAME="box_plot Coverage Results" MODIFIED="1715954677210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_product_details.coverage" NAME="crawl_product_details Coverage Results" MODIFIED="1716096806713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/detail" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$124.coverage" NAME="124 Coverage Results" MODIFIED="1716778249017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$map_salary.coverage" NAME="map_salary Coverage Results" MODIFIED="1716165098159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$City_salary.coverage" NAME="City_salary Coverage Results" MODIFIED="1716769734915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$education_salary.coverage" NAME="education_salary Coverage Results" MODIFIED="1716770994846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$city_salary__1_.coverage" NAME="city_salary (1) Coverage Results" MODIFIED="1715996110614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$convert_to_uniform.coverage" NAME="convert_to_uniform Coverage Results" MODIFIED="1715954044740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Single_problem" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$worldcloud.coverage" NAME="worldcloud Coverage Results" MODIFIED="1716167150538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/picture_drawing" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$db_for_echarts.coverage" NAME="db_for_echarts Coverage Results" MODIFIED="1716985795585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MongoDB" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_product.coverage" NAME="crawl_product Coverage Results" MODIFIED="1716034257956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$collect_city_csv.coverage" NAME="collect_city_csv Coverage Results" MODIFIED="1716115712629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$crawl_51job_datanlyze__1_.coverage" NAME="crawl_51job_datanlyze (1) Coverage Results" MODIFIED="1716033658734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$Grouped_number.coverage" NAME="Grouped_number Coverage Results" MODIFIED="1716778967234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
+    <SUITE FILE_PATH="coverage/Python_dataAnalysis_51job$Wordcloud.coverage" NAME="Wordcloud Coverage Results" MODIFIED="1716770517529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pyecharts" />
+  </component>
+</project>
